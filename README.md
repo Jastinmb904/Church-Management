@@ -39,7 +39,7 @@ A comprehensive church management system designed to help religious organization
 
 1. *Clone the repository*
    bash
-   git clone https://github.com/AnoopGeorge418/Church-Management.git
+   git clone [https://github.com/Jastinmb904/Church-Management.git]
    cd Church-Management
    
 
